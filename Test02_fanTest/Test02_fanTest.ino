@@ -1,4 +1,5 @@
 #include "Servo.h"
+// 导入库
 Servo myservo;
 // 接口
 const int fanPin = 9;   
